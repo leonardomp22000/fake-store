@@ -32,7 +32,7 @@ export default function ProductDetailPage() {
         <p>Price: {product.price}</p>
         <p>Stock: {product.stock} </p>
         <p>Brand: {product.brand}</p>
-        <p>Dimensions: Width: {product.dimensions.width} Height: {product.dimensions.height} Depth: {product.dimensions.depth}</p>
+       
       </article>
     </main>
   );
